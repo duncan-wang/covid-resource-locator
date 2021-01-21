@@ -1,4 +1,5 @@
 # covid-resource-locator
+
 ### Locate Essential Services on the Island of Montreal
 
 Since the onset of the COVID-19 pandemic, government lockdown restrictions and the increasing risk of disease transmission have made access to essential service providers a significant social priority. 
